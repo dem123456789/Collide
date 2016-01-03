@@ -1,7 +1,8 @@
 # Collide
 
 A Game Boy game with collision detection
-
+![Blocks](https://github.com/dem123456789/Collide/blob/master/img/block.png "Blocks") 
+![Example](https://github.com/dem123456789/Collide/blob/master/img/example.png "Example") 
 
 ## Usage
 1. Change Windows example paths DKPATH CCPATH VBASIM in the Makefile accordingly to compile the project 
